@@ -167,9 +167,13 @@ You will be provided with the API endpoints necessary to complete the task.
    - Use meaningful variable names and comments where necessary.
    - Ensure that the code is free from warnings and errors.
 
-5. **Submission**:
+5. **Application Name**:
+   - Name the application using your mobile number (e.g., `20101173520`).
+
+6. **Submission**:
    - Upload the completed project to a Git repository (GitHub, GitLab, etc.).
-   - Share the repository link along with any additional instructions or notes.
+   - Share the repository link along with any additional instructions or notes.  
+   - Along with the repository link, provide the APK build of the app.
 
 ## Evaluation Criteria
 
@@ -178,3 +182,5 @@ You will be provided with the API endpoints necessary to complete the task.
 - **UI/UX**: User interface design and user experience.
 - **Error Handling**: Proper management of errors and edge cases, especially validation errors.
 - **Authentication**: Secure handling of the login process and API token.
+---
+This task is a basic simulation of a real-world project and will help assess your ability to work with Flutter, manage state, interact with APIs, and handle authentication and validation errors. Good luck!
