@@ -35,6 +35,15 @@ You will be provided with the API endpoints necessary to complete the task.
   - Create a login screen with fields for `username` and `password`.
   - On successful login, store the authentication token for use in subsequent API requests.
   - Navigate to the next screen after a successful login.
+  
+**UI Design**:
+- Login Screen Mockup:
+  
+  ![Login Screen](1.jpg)
+
+- Home Screen Mockup:
+  
+  ![Home Screen](2.jpg)
 
 ### 2. CRUD Operations for School Grades
 
@@ -76,6 +85,15 @@ You will be provided with the API endpoints necessary to complete the task.
   - Handle validation errors by displaying error messages below the respective input fields.
   - Use the provided API endpoints to perform the above operations.
   - Ensure proper error handling for API requests.
+
+**UI Design**:
+- Grades List Screen Mockup:
+  
+  ![Grades List Screen](3.jpg)
+  
+- Add/Edit Grade Screen Mockup:
+  
+  ![Add/Edit Grade Screen](4.jpg)
 
 ### 3. CRUD Operations for School Classes
 
@@ -120,6 +138,15 @@ You will be provided with the API endpoints necessary to complete the task.
   - Use the provided API endpoints to perform the above operations.
   - Ensure proper error handling for API requests.
 
+**UI Design**:
+- Classes List Screen Mockup:
+  
+  ![Classes List Screen](5.jpg)
+  
+- Add/Edit Class Screen Mockup:
+  
+  ![Add/Edit Class Screen](6.jpg)
+
 ## Submission Guidelines
 
 1. **Project Setup**:
@@ -151,7 +178,3 @@ You will be provided with the API endpoints necessary to complete the task.
 - **UI/UX**: User interface design and user experience.
 - **Error Handling**: Proper management of errors and edge cases, especially validation errors.
 - **Authentication**: Secure handling of the login process and API token.
-
----
-
-This task is a basic simulation of a real-world project and will help assess your ability to work with Flutter, manage state, interact with APIs, and handle authentication and validation errors. Good luck!
