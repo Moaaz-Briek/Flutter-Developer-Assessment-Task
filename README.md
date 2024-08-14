@@ -21,7 +21,7 @@ You will be provided with the API endpoints necessary to complete the task.
 - **Request Body**:
   ```json
   {
-    "username": "user",
+    "mobile": "user",
     "password": "pass"
   }
   ```
