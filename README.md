@@ -62,7 +62,7 @@ You will be provided with the API endpoints necessary to complete the task.
       ```
   - **Get Grades**: `/school/grades`
     - **Method**: `GET`
-  - **Update Grade**: `/api/grades/{id}`
+  - **Update Grade**: `/school/grades/{id}`
     - **Method**: `PUT`
     - **Request Body**:
       ```json
